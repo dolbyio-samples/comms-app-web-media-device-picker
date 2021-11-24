@@ -7,4 +7,4 @@ This is a fork of the Getting Started with Dolby.io Communications Browser SDK p
 https://github.com/voxeet/voxeet-sdk-browser-gettingstarted
 
 You can learn more from the blog post:
-https://dolby.io/blog/picking-a-camera-and-microphone-from-a-media-device-selection-menu
+https://dolby.io/blog/adding-a-media-device-selection-menu-for-picking-camera-and-microphone/
