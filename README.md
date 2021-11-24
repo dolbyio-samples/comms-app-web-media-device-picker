@@ -30,11 +30,14 @@ Here is how to set up and run this project locally.
     VoxeetSDK.initialize('customerKey', 'customerSecret');
     ```
     
-3. Start a simple http server to access the conference web application
+3. Download and install Node.js here: https://nodejs.org/en/download/
+    
+4. Start a simple http server to access the conference web application
     ```sh
     $ cd src && npx http-server -a localhost -p 8000 -c-1 -o ./
+    ```
 
-4. Open the application in your web browser at [localhost:8000](http://localhost:8000).
+5. Open the application in your web browser at [localhost:8000](http://localhost:8000).
 
 
 ### Why Start a HTTP Server?
