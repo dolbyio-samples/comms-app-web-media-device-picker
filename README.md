@@ -1,5 +1,14 @@
 # Dolby.io Video Conference Application with Media Devices Controls
 
+Adds a selection menu to choose a microphone, camera, and speaker from the list of media devices that can be
+controlled by the browser.
+
+This is a fork of the Getting Started with Dolby.io Communications Browser SDK project:
+https://github.com/voxeet/voxeet-sdk-browser-gettingstarted
+
+You can learn more from the blog post:
+https://dolby.io/blog/adding-a-media-device-selection-menu-for-picking-camera-and-microphone/
+
 ## Getting Started
 
 Here is how to set up and run this project locally.
