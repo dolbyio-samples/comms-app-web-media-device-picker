@@ -20,9 +20,9 @@ Here is how to set up and run this project locally.
 ### Installation and Usage
 1. Clone this repo and change directory.
     ```sh
-    $ git clone https://github.com/ndubuisx/voxeet-sdk-browser-gettingstarted
+    $ git clone https://github.com/dolbyio-samples/blog-browser-getting-started-media-device-picker
 
-    $ cd voxeet-sdk-browser-gettingstarted
+    $ cd blog-browser-getting-started-media-device-picker
     ```
     
 2. Replace this line in [client.js](./src/scripts/client.js) with your Dolby.io Communications API key and secret.
