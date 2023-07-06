@@ -21,7 +21,7 @@ Here is how to set up and run this project locally.
 ### Installation and Usage
 1. Clone this repo and change directory.
     ```sh
-    $ git clone https://github.com/dolbyio-samples/blog-browser-getting-started-media-device-picker
+    $ git clone https://github.com/dolbyio-samples/comms-app-web-media-device-picker
 
     $ cd blog-browser-getting-started-media-device-picker
     ```
