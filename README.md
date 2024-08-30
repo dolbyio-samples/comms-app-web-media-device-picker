@@ -1,3 +1,5 @@
+# :warning: This repository is no longer maintained :warning:
+
 [![License](https://img.shields.io/github/license/dolbyio-samples/blog-browser-getting-started-media-device-picker)](LICENSE)
 
 ![Blog Picture](https://dolby.io/wp-content/uploads/2021/12/DolbyIO-mute-desktop.jpg)
